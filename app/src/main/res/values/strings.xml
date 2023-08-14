@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">fixacao</string>
+    <string name="menu">Exercícios de fixação</string>
+    <string name="btn1">EXERCÍCIO 1</string>
+    <string name="bnt2">EXERCÍCIO 3</string>
+    <string name="info_dupla">Paulo Ricardo e Rebeka Lima - 2DS - PAM</string>
+    <string name="txt_exer3"> Gratificação de Natal</string>
+    <string name="edit1_3">Digite as horas extras</string>
+    <string name="edit2_3">Digite as horas faltas</string>
+    <string name="check">Verificar 😄</string>
+    <string name="result">Boas festas!</string>
 </resources>
