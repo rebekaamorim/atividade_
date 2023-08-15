@@ -9,4 +9,6 @@
     <string name="edit2_3">Digite as horas faltas</string>
     <string name="check">Verificar 😄</string>
     <string name="result">Boas festas!</string>
+    <string name="extras">Total de horas extras:</string>
+    <string name="faltas">Total de horas faltadas:</string>
 </resources>
