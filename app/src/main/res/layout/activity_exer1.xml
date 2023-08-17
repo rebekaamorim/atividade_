@@ -29,13 +29,14 @@
         tools:ignore="Autofill,TextFields" />
 
     <TextView
-        android:id="@+id/textViewResult"
+        android:id="@+id/TextVewResult"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="16dp"
         android:textSize="16sp" />
 
     <Button
+        android:id="@+id/TextVewResult"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:onClick="checkMultiples"

@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@android:color/system_accent1_100"
+    android:background="@color/material_dynamic_primary90"
     tools:context=".MainActivity">
 
     <TextView
@@ -13,7 +13,7 @@
         android:layout_height="45dp"
         android:fontFamily="@font/alata"
         android:text="@string/menu"
-        android:textColor="@android:color/system_accent1_900"
+        android:textColor="@color/material_dynamic_primary20"
         android:textColorLink="@color/material_dynamic_primary20"
         android:textSize="24sp"
         app:layout_constraintBottom_toBottomOf="parent"

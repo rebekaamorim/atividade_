@@ -17,4 +17,5 @@
     <string name="button">Verificar</string>
     <string name="textViewResult">São múltiplos</string>
     <string name="textViewResult2">Não são múltiplos</string>
+    <string name="resultado">""</string>
 </resources>
