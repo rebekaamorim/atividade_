@@ -130,4 +130,8 @@ Pronto! O resultado fica assim:
 
    ![image](https://github.com/rebekaamorim/atividade_/assets/127617481/6ce3ae41-ce15-470c-91c6-bef772a88dc3)
 
-#### - Código do Menu ~çl
+#### - Código do Menu
+
+ Aqui, utilizamos as intents Explícitas para mudar de tela. 
+![image](https://github.com/rebekaamorim/atividade_/assets/127617481/df5414a8-d0eb-486f-9599-1255a6e6d010)
+
