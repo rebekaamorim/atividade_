@@ -11,4 +11,10 @@
     <string name="result">Boas festas!</string>
     <string name="extras">Total de horas extras:</string>
     <string name="faltas">Total de horas faltadas:</string>
+    <string name="nome">Exercício 1</string>
+    <string name="edittextA">Digite o valor de A</string>
+    <string name="edittextB">Digite o valor de B</string>
+    <string name="button">Verificar</string>
+    <string name="textViewResult">São múltiplos</string>
+    <string name="textViewResult2">Não são múltiplos</string>
 </resources>
