@@ -14,23 +14,28 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        btn1= (Button) findViewById(R.id.btn_exer1);
-        btn2= (Button) findViewById(R.id.btn_exer3);
+        Button btn1 = (Button) findViewById(R.id.btn_exer1);
+        Button btn2= (Button) findViewById(R.id.btn_exer3);
         // fazer intent btn1 depois que o paulo fizer
 
-        btn2.setOnClickListener(new View.OnClickListener(){
+        btn1.setOnClickListener(new View.OnClickListener() {
             @Override
 
-            public void onClick (View v) {
+            public void onClick(View v) {
                 Intent intent = new Intent(MainActivity.this, exer1.class);
-                Intent intent1 = new Intent(MainActivity.this, exer3.class);
-
                 startActivity(intent);
             }
         });
 
-    }
+        btn2.setOnClickListener(new View.OnClickListener(){
+            @Override
+            public void onClick (View v) {
+                Intent intent1 = new Intent(MainActivity.this, exer3.class);
+                startActivity(intent1);
+            }
+        });
 
+    }
     Button btn1;
     Button btn2;
 }
