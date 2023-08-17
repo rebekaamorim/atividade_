@@ -19,7 +19,7 @@ public class exercicio1 extends AppCompatActivity {
 
         calcular = (Button) findViewById(R.id.btncal);
         val1 = (EditText) findViewById(R.id.idn1);
-        val2= (EditText) findViewById(R.id.idn2);
+        val2 = (EditText) findViewById(R.id.idn2);
 
         calcular.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -33,14 +33,12 @@ public class exercicio1 extends AppCompatActivity {
         });
     }
 
-    public void cal(){
-
-
-
-        }
+    public void cal() {
 
 
     }
+
+
     Button calcular;
     EditText val1;
     EditText val2;
