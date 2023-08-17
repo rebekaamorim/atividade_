@@ -6,6 +6,7 @@ import android.view.View;
 import android.widget.Button;
 import androidx.appcompat.app.AppCompatActivity;
 
+// arrumar para abrir para uma tela para outra
 public class MainActivity extends AppCompatActivity {
 
     @Override
