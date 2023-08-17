@@ -112,6 +112,12 @@ Pronto! O resultado fica assim:
 
 - 
 
+#### *Adicionando nova activiespara cada tela
+
+![image](https://github.com/rebekaamorim/atividade_/assets/127617481/58d3faf9-06ff-4ea3-bc4f-7762a7f2aa78)
+
+*_Caminho: APP > Java > New > Activity > Empity Views Activity*
+
 ## Parte 6 - Programando
 
 ####- Código da tela do Exercício 3
