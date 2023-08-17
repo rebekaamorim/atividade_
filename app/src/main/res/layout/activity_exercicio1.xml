@@ -4,67 +4,64 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/azulmaisclaro"
-    tools:context=".MainActivity">
+    android:background="@color/cinzaclarinho"
+    tools:context=".exercicio1">
 
-    <TextView
-        android:id="@+id/textView"
-        android:layout_width="230dp"
-        android:layout_height="45dp"
-        android:fontFamily="@font/alata"
-        android:text="@string/menu"
-        android:textColor="@color/azulescuro"
-        android:textSize="24sp"
+    <EditText
+        android:id="@+id/idn2"
+        android:layout_width="263dp"
+        android:layout_height="54dp"
+        android:ems="10"
+        android:hint="@string/edittextB"
+        android:inputType="number"
+        android:textColor="@color/black"
+        android:textColorHint="@color/azulescuro"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.497"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.135" />
+        app:layout_constraintVertical_bias="0.329" />
 
-    <Button
-        android:id="@+id/btn_exer3"
-        android:layout_width="256dp"
-        android:layout_height="71dp"
-        android:backgroundTint="@color/azulescuro"
-        android:fontFamily="@font/alata"
-        android:text="@string/bnt2"
-        android:textColor="@color/white"
-        android:textSize="20sp"
+    <EditText
+        android:id="@+id/idn1"
+        android:layout_width="263dp"
+        android:layout_height="56dp"
+        android:ems="10"
+        android:hint="@string/edittextA"
+        android:inputType="number"
+        android:textColorHint="@color/azulescuro"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.497"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.534" />
+        app:layout_constraintVertical_bias="0.202" />
 
     <Button
-        android:id="@+id/btn_exer1"
-        android:layout_width="250dp"
-        android:layout_height="73dp"
+        android:id="@+id/btncal"
+        android:layout_width="205dp"
+        android:layout_height="72dp"
         android:backgroundTint="@color/azulescuro"
-        android:fontFamily="@font/alata"
-        android:text="@string/btn1"
+        android:text="@string/button"
         android:textColor="@color/white"
-        android:textSize="20sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.496"
+        app:layout_constraintHorizontal_bias="0.498"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.38" />
+        app:layout_constraintVertical_bias="0.499" />
 
     <TextView
-        android:id="@+id/textView2"
+        android:id="@+id/resultado"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:fontFamily="@font/alata"
-        android:text="@string/info_dupla"
-        android:textColor="@color/azulescuro"
+        android:text="@string/resultado"
         android:textSize="16sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.496"
+        app:layout_constraintHorizontal_bias="0.498"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.925" />
+        app:layout_constraintVertical_bias="0.424" />
 </androidx.constraintlayout.widget.ConstraintLayout>

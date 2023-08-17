@@ -10,15 +10,15 @@ import androidx.appcompat.app.AppCompatActivity;
 
 public class exer1 extends AppCompatActivity {
 
-    @SuppressLint("MissingInflatedId")
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        editTextA = findViewById(R.id.editTextA);
-        editTextB = findViewById(R.id.editTextB);
-        textViewResult = findViewById(R.id.textViewResult);
+        editTextA = (EditText) findViewById(R.id.editTextA);
+        editTextB = (EditText) findViewById(R.id.editTextB);
+        textViewResult = (TextView) findViewById(R.id.TextVewResult);
     }
 
     @SuppressLint("SetTextI18n")
@@ -34,4 +34,5 @@ public class exer1 extends AppCompatActivity {
     }
     EditText editTextA, editTextB;
     TextView textViewResult;
+
 }

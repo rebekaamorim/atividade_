@@ -5,8 +5,8 @@
     <string name="bnt2">EXERCÍCIO 3</string>
     <string name="info_dupla">Paulo Ricardo e Rebeka Lima - 2DS - PAM</string>
     <string name="txt_exer3"> Gratificação de Natal</string>
-    <string name="edit1_3">Digite as horas extras</string>
-    <string name="edit2_3">Digite as horas faltas</string>
+    <string name="edit1_3">Digite os minutos extras</string>
+    <string name="edit2_3">Digite os minutos faltados </string>
     <string name="check">Verificar 😄</string>
     <string name="result">Boas festas!</string>
     <string name="extras">Total de horas extras:</string>
@@ -17,4 +17,5 @@
     <string name="button">Verificar</string>
     <string name="textViewResult">São múltiplos</string>
     <string name="textViewResult2">Não são múltiplos</string>
+    <string name="resultado">""</string>
 </resources>

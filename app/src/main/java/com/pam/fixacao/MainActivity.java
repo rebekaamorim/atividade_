@@ -6,7 +6,7 @@ import android.view.View;
 import android.widget.Button;
 import androidx.appcompat.app.AppCompatActivity;
 
-// arrumar para abrir para uma tela para outra
+
 public class MainActivity extends AppCompatActivity {
 
     @Override
@@ -14,13 +14,13 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        Button btn1 = (Button) findViewById(R.id.btn_exer1);
-        Button btn2= (Button) findViewById(R.id.btn_exer3);
+        btn1 = (Button) findViewById(R.id.btn_exer1);
+        btn2= (Button) findViewById(R.id.btn_exer3);
 
-        btn1.setOnClickListener(new View.OnClickListener() {
+        btn1.setOnClickListener(new View.OnClickListener(){
             @Override
-            public void onClick(View v) {
-                Intent intent = new Intent(MainActivity.this, exer1.class);
+            public void onClick (View v) {
+                Intent intent = new Intent(MainActivity.this, exercicio1.class);
                 startActivity(intent);
             }
         });
@@ -33,4 +33,7 @@ public class MainActivity extends AppCompatActivity {
             }
         });
     }
+
+    Button btn1;
+    Button btn2;
 }
