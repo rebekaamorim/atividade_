@@ -75,7 +75,8 @@ Caso fizer alguma alteração, simplemente utilizar os três códigos da imagem:
 _OBS: para posiciona-los, arrastar as bolinhas brancas até as extreminadades da tela, assim, o objeto fica fixo. Como nas fotos a seguir:
 
 ![image](https://github.com/rebekaamorim/atividade_/assets/127617481/5c1e97b3-0e12-43c8-9c67-daa213e92e9b)
-![image](https://github.com/rebekaamorim/atividade_/assets/127617481/4a21da21-e7b0-40dd-9e60-ebaf5a081e5f)
+![image](https://github.com/rebekaamorim/atividade_/assets/127617481/65e82dd9-1f01-4a25-bd41-48b6f17f370f)
+
 
 ##### Adicionando o ID do elementos:
 
