@@ -78,7 +78,6 @@ public class exer3 extends AppCompatActivity {
                 hfaltas.setText("");
             }
     }
-
     EditText extra;
     EditText faltas;
     TextView result;
