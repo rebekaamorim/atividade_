@@ -64,3 +64,50 @@ Caso fizer alguma alteração, simplemente utilizar os três códigos da imagem:
 - commit -m “descricao”
 - git push origin main;
 
+## Passo 5 - Criando um layout
+
+ Pela interfasse, basta arrastar as views para a tela, colocar os seus IDs e definir sua string, ou seja, o texto que vai dentro do elemento pelo arquivo String.xml. 
+
+##### elementos arrastados para a tela Menu.
+ ![image](https://github.com/rebekaamorim/atividade_/assets/127617481/f56d765f-0367-461d-a5e4-1b7daff0b06f)
+
+
+_OBS: para posiciona-los, arrastar as bolinhas brancas até as extreminadades da tela, assim, o objeto fica fixo. Como nas fotos a seguir:
+
+![image](https://github.com/rebekaamorim/atividade_/assets/127617481/5c1e97b3-0e12-43c8-9c67-daa213e92e9b)
+![image](https://github.com/rebekaamorim/atividade_/assets/127617481/4a21da21-e7b0-40dd-9e60-ebaf5a081e5f)
+
+##### Adicionando o ID do elementos:
+
+![image](https://github.com/rebekaamorim/atividade_/assets/127617481/c0698f10-ef8c-4d41-af54-4d68f3d7dbed)
+![image](https://github.com/rebekaamorim/atividade_/assets/127617481/44355a30-0704-4f4c-b7ad-8a522dd45bf9)
+![image](https://github.com/rebekaamorim/atividade_/assets/127617481/6687d76f-9869-4b62-8f73-37a6bb612678)
+ 
+ ##### Adicionando texto peo arquivo string.xml
+
+ ![image](https://github.com/rebekaamorim/atividade_/assets/127617481/f2918ae4-a1d0-480d-8c9b-ed40c322c29d)
+![image](https://github.com/rebekaamorim/atividade_/assets/127617481/5c0db7b9-f7e4-4da9-9d9b-287d5e6b3714)
+
+_Clicar no boão retangular ao lado do atributo para adicionar a string
+![image](https://github.com/rebekaamorim/atividade_/assets/127617481/2a81f44c-c3dc-4ce2-aaf0-7f625bb651b8)
+![image](https://github.com/rebekaamorim/atividade_/assets/127617481/384d06f5-6250-4294-85e3-6010b84da79a)
+
+Pronto! O resultado fica assim:
+
+![image](https://github.com/rebekaamorim/atividade_/assets/127617481/0a78adc2-af49-4083-ae9d-1f57ade83060)
+
+ A tela pode ser estilizada, utilizando os atributos, ficando da seguinte forma:
+
+ ![image](https://github.com/rebekaamorim/atividade_/assets/127617481/32177e0d-37c3-4750-9a60-5807913f4f5f)
+
+ 
+#### A mesma lógica segue nos demais layouts, sendo eles
+
+- ##### Exercicio 3
+
+ Nessa activity o elemento diferenciado que usamos, foi o CheckBox, usado no lugar no Button.
+ 
+ ![image](https://github.com/rebekaamorim/atividade_/assets/127617481/dee3bea9-5025-4bd3-93bb-cfc2410236c1)
+
+- 
+
