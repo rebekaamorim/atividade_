@@ -112,3 +112,22 @@ Pronto! O resultado fica assim:
 
 - 
 
+## Parte 6 - Programando
+
+####- Código da tela do Exercício 3
+
+  Primeiro criamos as variáveis
+ ![image](https://github.com/rebekaamorim/atividade_/assets/127617481/173ca048-bf32-47f2-94f1-1e4949d86cdf)
+
+ Depois, vinculamos ela ao elemento da activity que irá ser manipulado, assim, adicionamos a funcionalidade ao botão
+![image](https://github.com/rebekaamorim/atividade_/assets/127617481/eb0fc3dc-89c5-41f8-ae0d-e3fc1ef757a9)
+
+- Criando o método que vai calcular
+  
+![image](https://github.com/rebekaamorim/atividade_/assets/127617481/d74bc4ae-ab06-4b77-aabc-a27059d3e95e)
+
+- Criando método para converter os minutos em hora
+
+   ![image](https://github.com/rebekaamorim/atividade_/assets/127617481/6ce3ae41-ce15-470c-91c6-bef772a88dc3)
+
+#### - Código do Menu ~çl
