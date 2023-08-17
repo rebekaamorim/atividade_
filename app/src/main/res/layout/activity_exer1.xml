@@ -30,12 +30,13 @@
 
     <TextView
         android:id="@+id/textViewResult"
-        android:layout_width="wrap_content"
+        android:layout_width="161dp"
         android:layout_height="wrap_content"
         android:layout_marginTop="16dp"
         android:textSize="16sp" />
 
     <Button
+        android:id="@+id/btnverificar"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:onClick="checkMultiples"
