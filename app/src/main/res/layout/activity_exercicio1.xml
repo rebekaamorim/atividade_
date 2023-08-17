@@ -4,6 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@color/cinzaclarinho"
     tools:context=".exercicio1">
 
     <EditText
@@ -13,6 +14,8 @@
         android:ems="10"
         android:hint="@string/edittextB"
         android:inputType="number"
+        android:textColor="@color/black"
+        android:textColorHint="@color/azulescuro"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.497"
@@ -27,6 +30,7 @@
         android:ems="10"
         android:hint="@string/edittextA"
         android:inputType="number"
+        android:textColorHint="@color/azulescuro"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.497"
@@ -36,13 +40,14 @@
 
     <Button
         android:id="@+id/btncal"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:backgroundTint="@color/material_dynamic_primary50"
+        android:layout_width="205dp"
+        android:layout_height="72dp"
+        android:backgroundTint="@color/azulescuro"
         android:text="@string/button"
+        android:textColor="@color/white"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.444"
+        app:layout_constraintHorizontal_bias="0.498"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.499" />
