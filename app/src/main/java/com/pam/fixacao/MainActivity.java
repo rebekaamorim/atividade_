@@ -4,9 +4,9 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
-
 import androidx.appcompat.app.AppCompatActivity;
 
+// arrumar para abrir para uma tela para outra
 public class MainActivity extends AppCompatActivity {
 
     @Override
@@ -16,11 +16,9 @@ public class MainActivity extends AppCompatActivity {
 
         Button btn1 = (Button) findViewById(R.id.btn_exer1);
         Button btn2= (Button) findViewById(R.id.btn_exer3);
-        // fazer intent btn1 depois que o paulo fizer
 
         btn1.setOnClickListener(new View.OnClickListener() {
             @Override
-
             public void onClick(View v) {
                 Intent intent = new Intent(MainActivity.this, exer1.class);
                 startActivity(intent);
@@ -30,14 +28,9 @@ public class MainActivity extends AppCompatActivity {
         btn2.setOnClickListener(new View.OnClickListener(){
             @Override
             public void onClick (View v) {
-                Intent intent1 = new Intent(MainActivity.this, exer3.class);
-                startActivity(intent1);
+                Intent intent = new Intent(MainActivity.this, exer3.class);
+                startActivity(intent);
             }
         });
-
     }
-    Button btn1;
-    Button btn2;
 }
-
-

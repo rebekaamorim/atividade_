@@ -10,9 +10,6 @@ import androidx.appcompat.app.AppCompatActivity;
 
 public class exer1 extends AppCompatActivity {
 
-    private EditText editTextA, editTextB;
-    private TextView textViewResult;
-
     @SuppressLint("MissingInflatedId")
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -35,4 +32,6 @@ public class exer1 extends AppCompatActivity {
             textViewResult.setText("Não são múltiplos");
         }
     }
+    EditText editTextA, editTextB;
+    TextView textViewResult;
 }
