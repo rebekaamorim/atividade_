@@ -110,10 +110,13 @@ _OBS: para posiciona-los, arrastar as bolinhas brancas até as extreminadades da
 ![image](https://github.com/rebekaamorim/atividade_/assets/127617481/44355a30-0704-4f4c-b7ad-8a522dd45bf9)
 ![image](https://github.com/rebekaamorim/atividade_/assets/127617481/6687d76f-9869-4b62-8f73-37a6bb612678)
  
- ##### Adicionando texto peo arquivo string.xml
+##### Adicionando texto pelo arquivo string.xml
 
  ![image](https://github.com/rebekaamorim/atividade_/assets/127617481/f2918ae4-a1d0-480d-8c9b-ed40c322c29d)
 ![image](https://github.com/rebekaamorim/atividade_/assets/127617481/5c0db7b9-f7e4-4da9-9d9b-287d5e6b3714)
+
+##### Adicionando cores pelo arquivo colors.xml
+![image](https://github.com/rebekaamorim/atividade_/assets/127450671/b2a87d86-f7fe-4b66-bf17-9a637ebdb0a0)
 
 *Clicar no boão retangular ao lado do atributo para adicionar a string:*
 
