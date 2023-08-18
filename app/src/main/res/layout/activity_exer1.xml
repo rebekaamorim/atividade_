@@ -1,45 +1,71 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
     android:padding="16dp"
+    android:background="@color/verdeclaro"
     tools:context=".MainActivity">
 
     <EditText
         android:id="@+id/editTextA"
-        android:layout_width="241dp"
-        android:layout_height="wrap_content"
+        android:layout_width="321dp"
+        android:layout_height="92dp"
+        android:fontFamily="@font/baloo_chettan"
         android:hint="@string/edittextA"
         android:inputType="number"
         android:minHeight="48dp"
         android:textColorHint="#8D6E63"
+        android:textSize="24sp"
         tools:ignore="Autofill,TextFields" />
 
     <EditText
         android:id="@+id/editTextB"
-        android:layout_width="240dp"
-        android:layout_height="wrap_content"
+        android:layout_width="319dp"
+        android:layout_height="89dp"
+        android:fontFamily="@font/baloo_chettan"
         android:hint="@string/edittextB"
         android:inputType="number"
         android:minHeight="48dp"
         android:textColorHint="#8D6E63"
+        android:textSize="24sp"
         tools:ignore="Autofill,TextFields" />
 
     <TextView
         android:id="@+id/textViewResult"
-        android:layout_width="176dp"
-        android:layout_height="wrap_content"
+        android:layout_width="309dp"
+        android:layout_height="46dp"
         android:layout_marginTop="16dp"
-        android:textSize="16sp" />
+        android:textSize="20sp" />
 
     <Button
         android:id="@+id/btnverificar"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="221dp"
+        android:layout_height="78dp"
         android:onClick="checkMultiples"
-        android:text="@string/btnverificar" />
+        android:text="@string/btnverificar"
+        android:textSize="20sp" />
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ImageView
+            android:id="@+id/figura"
+            android:layout_width="239dp"
+            android:layout_height="251dp"
+            android:layout_marginStart="70dp"
+            android:layout_marginTop="100dp"
+            android:layout_marginEnd="70dp"
+            android:layout_marginBottom="78dp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:srcCompat="@drawable/figura" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
 
 </LinearLayout>
