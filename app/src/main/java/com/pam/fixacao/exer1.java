@@ -26,7 +26,7 @@ public class exer1 extends AppCompatActivity {
             @Override
             public void onClick(View view) {
 
-                // Foram usadas as variável para verificar, todos do tipo "integer"
+                // Foram usadas as variáveis para verificar todos do tipo "integer"
                 int a = Integer.parseInt(editTextA.getText().toString());
                 int b = Integer.parseInt(editTextB.getText().toString());
 
