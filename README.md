@@ -83,6 +83,12 @@ Caso fizer alguma alteração, simplemente utilizar os três códigos da imagem:
 - commit -m “descricao”
 - git push origin main;
 
+### Colocado Projeto do GitHub no Android Studio
+
+![image](https://github.com/rebekaamorim/atividade_/assets/127450671/70db9a61-993c-4e71-9955-3387bd44843b)
+
+O Código git pull, pode ser utilizado para mesclar as alterações enviadas para o GitHub para o projeto no AndroidStudio.
+
 ## Passo 5 - Criando um layout
 
  Pela interfasse, basta arrastar as views para a tela, colocar os seus IDs e definir sua string, ou seja, o texto que vai dentro do elemento pelo arquivo String.xml. 
