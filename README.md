@@ -194,3 +194,8 @@ se o resto da divisão de "b" por "a" é igual a zero. Isso indica que um dos n�
  Aqui, utilizamos as intents Explícitas para mudar de tela. 
  
 ![image](https://github.com/rebekaamorim/atividade_/assets/127617481/df5414a8-d0eb-486f-9599-1255a6e6d010)
+
+## Parte 7 - Resultado final (vídeo)
+
+- #### Exercício 1
+https://youtube.com/shorts/u2ioE4cKbNo?feature=share
