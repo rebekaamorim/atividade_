@@ -1,4 +1,4 @@
-a ú"ão # Roteiro da criação do APP
+# Roteiro da criação do APP
 Atividade de Fixação (Exercício 1 e 3) Android - PAM - Rebeka Lima e Paulo Ricardo
 
 ## Parte 1 - Criando o repósitorio
