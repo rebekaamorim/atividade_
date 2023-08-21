@@ -197,5 +197,5 @@ se o resto da divisão de "b" por "a" é igual a zero. Isso indica que um dos n�
 
 ## Parte 7 - Resultado final (vídeo)
 
-- #### Exercício 1
-https://youtube.com/shorts/u2ioE4cKbNo?feature=share
+- #### Exercícios 1 e 3
+https://youtube.com/shorts/8VI8VOsF1Gg
