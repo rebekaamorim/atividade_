@@ -129,7 +129,10 @@ Pronto! O resultado fica assim:
 
  ![image](https://github.com/rebekaamorim/atividade_/assets/127617481/32177e0d-37c3-4750-9a60-5807913f4f5f)
 
- 
+ ##### Alteração na imagem do ícone e label (um pequeno ícone e um rótulo de texto aos usuários para o componente de aplicativo correspondente.)
+
+ ![image](https://github.com/rebekaamorim/atividade_/assets/127450671/00c0d038-2d42-4d33-b7d7-722da280aaab)
+
 #### A mesma lógica segue nos demais layouts, sendo eles
 
 - ##### Exercício 1
@@ -194,6 +197,7 @@ se o resto da divisão de "b" por "a" é igual a zero. Isso indica que um dos n�
  Aqui, utilizamos as intents Explícitas para mudar de tela. 
  
 ![image](https://github.com/rebekaamorim/atividade_/assets/127617481/df5414a8-d0eb-486f-9599-1255a6e6d010)
+
 
 ## Parte 7 - Resultado final (vídeo)
 
