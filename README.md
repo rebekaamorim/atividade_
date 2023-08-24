@@ -133,6 +133,10 @@ Pronto! O resultado fica assim:
 
  ![image](https://github.com/rebekaamorim/atividade_/assets/127450671/00c0d038-2d42-4d33-b7d7-722da280aaab)
 
+ ###### Resultado final:
+
+ ![image](https://github.com/rebekaamorim/atividade_/assets/127450671/c4fd65b5-772c-4755-bfed-836682fefe6d)
+
 #### A mesma lógica segue nos demais layouts, sendo eles
 
 - ##### Exercício 1
